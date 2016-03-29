@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://christylaverty.github.io
+title: Christy Laverty
+tagline: Lifestyle
+description: My awesome new site
+paginate: 5
